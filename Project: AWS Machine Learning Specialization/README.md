@@ -6,7 +6,7 @@ The steps are divided into 4 parts:
 3. Create an AWS Lambda function
 4. Build, deploy, and test an API Gateway endpoint for the REST API
 
-The Python code used to perform all the above steps is shown in the Jupyter Notebook [AWS_stock_price_prediction.ipynb](https://github.com/gautampk95/upskill_projects/blob/main/Project%3A%20AWS%20Machine%20Learning%20Specialization/AWS_stock_price_prediction.ipynb). Steps 3 and 4 are primarily executed using Amazon services such as Lambda, SNS, and API Gateway. The specific services utilized in this upskill project are illustrated in the image below:
+The Python code used to perform all the above steps is shown in the Jupyter Notebook [AWS_stock_price_prediction.ipynb](https://github.com/gautampk95/upskill_projects/blob/main/Project%3A%20AWS%20Machine%20Learning%20Specialization/AWS_stock_price_prediction.ipynb). Steps 3 and 4 are primarily executed using Amazon services such as Lambda, SNS, and API Gateway. The specific services utilized in this upskill project are shown in the image below:
 
 ![AWS services utilized](AWS_services_utilized.png)
 
