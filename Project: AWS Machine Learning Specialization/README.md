@@ -1,4 +1,4 @@
-# AWS ML: Yahoo finance stock price prediction of Apple Inc. 
+# AWS ML: Yahoo finance stock price prediction for Apple Inc. 
 
 The steps are divided into 4 parts:
 1. Build and train an Amazon SageMaker model (xgboost)
